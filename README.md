@@ -1,4 +1,4 @@
-# Library_Management
+# Membership Management System
 
 This application serves as a foundational membership management system for a fitness center. The center encompasses three distinct locations: Club Mercury, Club Neptune, and Club Jupiter. Membership is categorized into two types: Single Club Membership and Multi Club Membership.
 
